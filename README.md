@@ -65,7 +65,7 @@ If you'd like to support Pyrogram, you can consider:
 ### NWES
 
 ``` bash
-pip3 install git+https://github.com/kuymabar/HAIDE
+pip3 install git+https://github.com/kuymbarom/BU
 ```
 
 ### Resources
